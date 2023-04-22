@@ -1,0 +1,19 @@
+1. # air tabulador
+2. service NetworkManager start
+3. service NetworkManager stop
+4. wifite
+5. sudo ip link set wlan0 down
+6. sudo iw wlan0 set type managed
+7. sudo ip link set wlan0 up
+8. sudo service NetworkManager start
+9. sudo service NetworkManager restart
+10. namp
+11. ifconfig wlan0
+12. ipcalc (ip y submask)
+13. sudo nmap -sn (ip/24)
+14. sudo namp -p21 (ip/24)
+15. ftp (ip)
+16. ls
+17. hexadit XoR.gif
+18. ftp (ip)
+19. Good-Bye
